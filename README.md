@@ -22,18 +22,18 @@
     
         a. 0 Null-values present in the dataset.
   
-<h3>5. Get Shape and Distribution. </h3>
+<h3>6. Get Shape and Distribution. </h3>
 
         a. Shape of Dataset --->  (3168, 21)
-
-<h3>5. Get Shape and Distribution. </h3>
-<h3>5. Split your data into a training set and a testing set. </h3>
-<h3>5.Model Evaluation. </h3>
-<h3>5.Confusion Matrix. </h3>
+        
+<h3>7. Converting lable column (male/female) to 1/0   </h3> 
+<h3>8. Split your data into a training set and a testing set. </h3>
+<h3>9.Model Evaluation. </h3>
+<h3>10.Confusion Matrix. </h3>
 
 ![Alt Text](https://github.com/Aamir8539/SVM-Voice-Classification-/blob/main/download.png)
 
-<h3>5.Classification report. </h3>
+<h3>11.Classification report. </h3>
 
                         precision    recall  f1-score   support
 
@@ -44,6 +44,6 @@
            macro avg       0.98      0.98      0.98       951
         weighted avg       0.98      0.98      0.98       951
 
-<h3>5.ROC Curve. </h3>
+<h3>12.ROC Curve. </h3>
 
 ![Alt Text](https://github.com/Aamir8539/SVM-Voice-Classification-/blob/main/ROC.png)
